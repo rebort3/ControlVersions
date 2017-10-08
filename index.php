@@ -7,4 +7,7 @@ class Marc{
     public function Garcia(){
         echo 'Cognom2';
     }
+      public function NoTincMes(){
+        echo 'Cognom?';
+    }
 }
