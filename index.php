@@ -12,8 +12,6 @@ class Marc{
     }
     
           public function Fantasma(){
-        echo 'PosarAlgo';
-        echo '*11*';
-        
+      
     }
 }
