@@ -10,4 +10,8 @@ class Marc{
       public function NoTincMes(){
         echo 'Cognom?';
     }
+    
+          public function Fantasma(){
+        
+    }
 }
